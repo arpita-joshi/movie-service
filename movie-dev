@@ -1,2 +1,1 @@
-spring.cloud.config.profile= dev
-spring.profiles.active= dev
+Dev environment
